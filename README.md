@@ -1,2 +1,2 @@
 # Study
-Обучение Python, ML
+Обучение Git,Python, ML
